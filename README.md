@@ -8,5 +8,5 @@ How to run this repository
 6. now come out of the backend folder
 7. cd frontend
 8. npm install
-9. npm start (http://localhost:5173/)(actual application)
+9. npm start (http://localhost:5173/)  (actual application)
 
